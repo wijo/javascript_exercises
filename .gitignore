@@ -1,0 +1,11 @@
+node_modules
+.idea
+bin
+javascript_exercises.iml
+stylesheets
+package.json
+package-lock.json
+app.js
+views
+users.js
+empty
